@@ -1,4 +1,4 @@
-# Image Captioning using ImageCaptioningUsingInceptionResNetV2
+# Image Captioning using InceptionResNetV2
 
 Deep learning model that generates descriptions for images using InceptionResNetV2 encoder and attention-based GRU decoder.
 

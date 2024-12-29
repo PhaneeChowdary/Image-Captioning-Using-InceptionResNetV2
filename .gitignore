@@ -5,3 +5,4 @@ Epochs10/
 __pycache__/
 .ipynb_checkpoints/
 Inference.ipynb
+.DS_Store

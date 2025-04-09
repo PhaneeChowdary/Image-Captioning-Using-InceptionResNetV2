@@ -34,5 +34,4 @@ python Inference.py
 
 3. Enter image path when prompted or 'q' to quit.
 
----
 ## Thank you
